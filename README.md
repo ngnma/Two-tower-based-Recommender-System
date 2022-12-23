@@ -1,7 +1,7 @@
-# Amazon_Recommender_System
-A Recommender System for Amazon_us_reviews
+# Recommender System
+Two tower based Recommender System 
 
-This is a recommender system based on two tower architecture on Amazon us reviews dataset.
+These are 2 recommender systems based on two tower architecture on Amazon_us_reviews & MovieLens datasets.
 
 
 this project is not completed yet!
