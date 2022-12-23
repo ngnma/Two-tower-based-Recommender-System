@@ -10,7 +10,7 @@ There are 6 steps to be done:
  - Ranking Task
  - Deployment of artificial intelligence model using TF Serving
 
- In this project these Library are used:
+ In this project these Libraries are used:
  - tensorflow as tf
  - tensorflow-dataset as tfds
  - tensorflow-recommenders as tfrs
