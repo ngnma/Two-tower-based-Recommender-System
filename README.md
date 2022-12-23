@@ -12,7 +12,7 @@
 
  ## In this project these Libraries are used:
  - tensorflow as tf
- - tensorflow-dataset as tfds
+ - tensorflow-datasets as tfds
  - tensorflow-recommenders as tfrs
 
  ## Datasets:
